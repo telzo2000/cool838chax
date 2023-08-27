@@ -15,7 +15,11 @@ cool838chax is cool838ax with choc switch and narrow key layout.
 
 
 
-# Firmware
+## Firmware
+
+The same thing as cool838ax can be used.
+<br>
+[Here](https://github.com/telzo2000/cool838ax/tree/main/firmware)
 
 
 ## Buildguide
