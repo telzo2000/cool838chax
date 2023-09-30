@@ -69,6 +69,8 @@ Place the back side of the PCB and the back side of the RP2040-Zero facing each 
 PCBの裏面とRP2040-Zeroの裏面が向かい合うようにして置き、それぞれの端子をハンダ付けします。
 <br>
 
+![](img/img00009.jpg)
+
 <br>
 
 ### 3b Soldering RP2040-Tiny (cool838chax-db)
@@ -173,6 +175,9 @@ Next, connect the adapter board and RP2040-Tiny with the FPC cable. Be careful o
 <br>
 次に、アダプタ基板とRP2040-TinyをFPCケーブルで接続してください。ケーブルの向きに注意してください。
 <br>
+
+![](img/img00005.jpg)
+
 Now run 4 Installing QMK_Firmware.
 <br>
 ここで、4 Instorlling QMK＿Firmwareを実行してください。
