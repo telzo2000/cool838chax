@@ -29,6 +29,13 @@ The same thing as cool838ax and cool838chax-db can be used.
 <br>
 [Here](https://github.com/telzo2000/cool838ax/tree/main/firmware)
 
+<br>
+
+cool838chax and cool838chax-db are the same in design as [cool838ax](https://github.com/telzo2000/cool838ax). The difference is the key switch.
+<br>
+
+cool838chaxとcool838chax-dbは、[cool838ax](https://github.com/telzo2000/cool838ax)と設計上、同じものです。違いはキースイッチです。
+<br>
 
 ## Buildguide
 
