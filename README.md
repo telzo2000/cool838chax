@@ -39,6 +39,7 @@ cool838chaxとcool838chax-dbは、[cool838ax](https://github.com/telzo2000/cool8
 
 ## Buildguide
 
+https://github.com/telzo2000/cool838chax/blob/main/buildguide_for_cool838chax.md
 
 ## Parts list
 
